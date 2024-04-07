@@ -1,7 +1,7 @@
 {
   "name": "ta",
-  "productName": "TA",
-  "version": "1.0.0",
+  "productName": "TA-APP",
+  "version": "2.0.0",
   "description": "My Electron application description",
   "main": ".vite/build/main.js",
   "scripts": {
@@ -36,6 +36,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "electron-router-dom": "^1.0.5",
     "electron-squirrel-startup": "^1.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
